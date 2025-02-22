@@ -16,7 +16,7 @@ This project benchmarks **DuckDB** against **Pandas** for loading and aggregatin
 |--------|--------------|------------------|--------------|------------------|
 | Pandas | 1.25 | 0.21 | 5.30 | 0.53 |
 | DuckDB | 0.60 | 0.42 | 2.44 | 1.98 |
-| DuckDB (4 cores) | 0.0619 | 0.001 | 0.000 | 0.000 |
+| DuckDB (4 cores) | x | x | 0.0619 | 0.001 |
 
 ## 📂 Repository Structure
 - `notebooks/` → Jupyter notebooks for step-by-step analysis
